@@ -1,0 +1,3 @@
+1. Verdigim Klasörü Attın Bu Dizine = C:\Windows\System32\oobe\
+
+2. Regedit Dosyasını Açınız Evet Diyiniz Bitti.
